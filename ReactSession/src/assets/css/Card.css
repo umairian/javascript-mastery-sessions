@@ -1,0 +1,34 @@
+.card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px 30px;
+    display: inline-block;
+    width: 250px;
+    border: 1px solid lightgray;
+    margin: 20px;
+}
+.card img {
+    width: 200px;
+    height: 200px;
+}
+.counter-div {
+    width: 100%;
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+.counter-div button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 8px;
+    margin: 20px;
+}
+.counter-div .add {
+    background-color: lightgreen;
+}
+.counter-div .subtract {
+    background-color: lightcoral;
+}
+.counter-div .reset {
+    background-color: lightskyblue;
+}
